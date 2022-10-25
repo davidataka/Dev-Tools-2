@@ -7,3 +7,12 @@
 >- npx ts-node prisma/seed.ts
 ![avatar](docs/1)
 ![avatar](docs/2)
+## Задание №2
+>- git rebase -i HEAD~4
+>- git cherry-pick 32098a
+>- git branch -d ci
+![avatar](docs/3)
+![avatar](docs/4)
+![avatar](docs/5)
+![avatar](docs/6)
+![avatar](docs/7)
