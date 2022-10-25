@@ -23,3 +23,6 @@
 ![avatar](docs/9)
 ![avatar](docs/10)
 ![avatar](docs/11)
+## Задание №4
+>- git blame -L 32,32 prisma/seed.tr
+![avatar](docs/12)
