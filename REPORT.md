@@ -45,3 +45,14 @@
 >- git blame .env
 ![avatar](docs/19)
 ![avatar](docs/20)
+## Задание №8
+>- git config --global rerere.enable true 
+>- git merge feature
+>- git rerere status 
+>- git rerere diff
+>- git merge --continue
+>- git commit -m 'chore:update README,md'
+>- git reset --hard HEAD~1
+![avatar](docs/21)
+![avatar](docs/22)
+![avatar](docs/23)
