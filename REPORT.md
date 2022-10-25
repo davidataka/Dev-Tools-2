@@ -26,3 +26,12 @@
 ## Задание №4
 >- git blame -L 32,32 prisma/seed.tr
 ![avatar](docs/12)
+## Задание №5
+>- npm run test
+>- git bisect start
+>- git bisect bad
+>- git bisect good 15d2a
+![avatar](docs/13)
+![avatar](docs/14)
+![avatar](docs/15)
+![avatar](docs/16)
