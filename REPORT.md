@@ -40,3 +40,8 @@
 >- git blame .env
 ![avatar](docs/17)
 ![avatar](docs/18)
+## Задание №7
+>- git rebase -r 15d2a11 --exec 'git commit --amend --author="David Atakishiev" <davidatak@icloud.com>'
+>- git blame .env
+![avatar](docs/19)
+![avatar](docs/20)
