@@ -56,3 +56,6 @@
 ![avatar](docs/21)
 ![avatar](docs/22)
 ![avatar](docs/23)
+## Задание №9
+>- git log --all --graph
+![avatar](docs/24)
