@@ -35,3 +35,8 @@
 ![avatar](docs/14)
 ![avatar](docs/15)
 ![avatar](docs/16)
+## Задание №6
+>- git filter-branch --index-filter 'git rm -cached --ignore-unmatch .env' HEAD
+>- git blame .env
+![avatar](docs/17)
+![avatar](docs/18)
