@@ -1,3 +1,3 @@
 # Nintendo eShop simple mobile app backend
 
-Mobile app
+Your way to get latest info about eShop titles
