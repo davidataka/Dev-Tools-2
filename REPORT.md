@@ -59,3 +59,7 @@
 ## Задание №9
 >- git log --all --graph
 ![avatar](docs/24)
+## Задание №10
+>- sudo du -sh .git
+>- git gs
+![avatar](docs/25)
