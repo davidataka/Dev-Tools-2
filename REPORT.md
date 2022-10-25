@@ -16,3 +16,10 @@
 ![avatar](docs/5)
 ![avatar](docs/6)
 ![avatar](docs/7)
+## Задание №3
+>- git reflog
+>- git branch old-master f95dd
+![avatar](docs/8)
+![avatar](docs/9)
+![avatar](docs/10)
+![avatar](docs/11)
