@@ -37,7 +37,6 @@
 ![avatar](docs/16.png)
 ## Задание №6
 >- git filter-branch --index-filter 'git rm -cached --ignore-unmatch .env' HEAD
->- git blame .env
 ![avatar](docs/17.png)
 ![avatar](docs/18.png)
 ## Задание №7
@@ -58,7 +57,9 @@
 ![avatar](docs/23.png)
 ## Задание №9
 >- git log --all --graph
+>- git fsck
 ![avatar](docs/24.png)
+![avatar](docs/27.png)
 ## Задание №10
 >- sudo du -sh .git
 >- git gs
